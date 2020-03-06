@@ -1,2 +1,3 @@
 .vscode/
-test.java
+test/*
+.DS_Store
